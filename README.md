@@ -4,7 +4,7 @@ PIAPS2E Is an Accurate PlayStation 2 Emulator
 ## FAQ
 
 ### What programming language will this be in?
-C
+C or C++. At the moment its still undecided.
 
 ### What makes this emulator different from the rest of the inaccurate peices of junk that exists for ps2 emulation?
 PIAPS2E will emulate a ps2 all the way down to hardware faults. It will NOT be focused on "making games work".
