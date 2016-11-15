@@ -10,7 +10,7 @@ C
 PIAPS2E will emulate a ps2 all the way down to hardware faults. It will NOT be focused on "making games work".
 
 ### Cool. So how can i help?
-If you wish to help me then you must join my ![discord](https://forum.coldbird.net/viewtopic.php?f=2&t=2185) and message me when i'm online. Only people with Advanced knowledge of how a PS2 works and that are serious about helping will be allowed to help in this project.
+If you wish to help me then you must join my [discord](https://forum.coldbird.net/viewtopic.php?f=2&t=2185) and message me when i'm online. Only people with Advanced knowledge of how a PS2 works and that are serious about helping will be allowed to help in this project.
 
 ### What happens if i don't meet the requirements to help?
 Tough.
