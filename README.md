@@ -20,3 +20,6 @@ You will find that out after you message me.
 
 ### What literary language will i need to know to help?
 If you can read this then you are fine. Translation/Multilingual versions will be created later.
+
+### Will this be cross-platform?
+Yes. We will start out with linux then move to android, windows, mac, ios and others.
