@@ -3,7 +3,7 @@ PIAPS2E Is an Accurate PlayStation 2 Emulator
 
 # FAQ
 
-### What language will this be in?
+### What programming language will this be in?
 C
 
 ### What makes this emulator different from the rest of the inaccurate peices of junk that exists for ps2 emulation?
