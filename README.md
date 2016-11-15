@@ -1,7 +1,7 @@
 # PIAPS2E
 PIAPS2E Is an Accurate PlayStation 2 Emulator
 
-# FAQ
+## FAQ
 
 ### What programming language will this be in?
 C
