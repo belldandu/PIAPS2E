@@ -1,6 +1,12 @@
 # PIAPS2E
 PIAPS2E Is an Accurate PlayStation 2 Emulator
 
+## Freindly reminder
+This project is like extremely low priority compared to my other projects. It's also still in its infancy.
+If anyone starts asking via issues why `this` can't play `that` yet, i will close these issues instantly.
+If you just want to play your ps2 games then use `Play!` or `PCSX2`, if you want accuracy then your in the right place.
+As `dolphin` devs have said before, `Emulating crashes is also emulation`. 
+
 ## FAQ
 
 ### What programming language will this be in?
